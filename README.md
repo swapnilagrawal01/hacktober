@@ -11,6 +11,14 @@ riotID: "fff",
 tagline: "#moc"
 }
 
+{
+gameName: "Valorant",
+riotID: "runtime1729",
+tagline: "#NA1"
+}
+
+
+
 
 ```
 
