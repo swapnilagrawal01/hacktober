@@ -4,6 +4,9 @@
 
 ### In the below JSON add your favourite game-name and information so that anyone can add you.
 
+> STAR the repo and add the information below.
+
+
 ``` javascript
 {
 gameName: "Valorant",
@@ -16,8 +19,6 @@ gameName: "Valorant",
 riotID: "runtime1729",
 tagline: "#NA1"
 }
-
-
 
 
 ```
