@@ -4,4 +4,14 @@
 
 ### In the below JSON add your favourite game-name and information so that anyone can add you.
 
+``` javascript
+{
+gameName: "Valorant",
+riotID: "fff",
+tagline: "#moc"
+}
+
+
+```
+
 
