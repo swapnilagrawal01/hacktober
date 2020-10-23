@@ -20,6 +20,14 @@ riotID: "runtime1729",
 tagline: "#NA1"
 }
 
+//adding another game
+
+{
+gameName: "Pubg khele bahut time ho gaya",
+riotID: "Bhaiya on Fire",
+tagline: "DTE"
+}
+
 
 ```
 
