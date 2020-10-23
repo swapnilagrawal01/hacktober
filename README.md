@@ -23,6 +23,7 @@ tagline: "#NA1"
 //adding another game
 
 {
+Add 1 and 2 to it also
 gameName: "Pubg khele bahut time ho gaya",
 riotID: "Bhaiya on Fire",
 tagline: "DTE"
