@@ -24,7 +24,6 @@ tagline: "#NA1"
 
 {
 gameName: "Pubg khele bahut time ho gaya",
-riotID: "Bhaiya on Fire",
 tagline: "DTE"
 }
 
