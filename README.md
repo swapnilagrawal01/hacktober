@@ -26,7 +26,11 @@ tagline: "#NA1"
 gameName: "Pubg khele bahut time ho gaya",
 tagline: "DTE"
 }
-
+{
+gameName: "Valorant",
+riotID: "runtime1729",
+tagline: "#NA1"
+}
 
 ```
 
